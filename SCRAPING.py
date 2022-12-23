@@ -1,7 +1,6 @@
-# scrapping indeed.com
-# getting salary data for bilgisayar muhendisi, veri bilimci, yazilim muhendisi, and mobil yazilim muhendisi salaries , the most hired fields and sektör  in turkey  DONE
-# storing the data in csv file DONE
-# plotting the data using matplotlib DONE
+# scraping kariyer.net
+# getting salary data for bilgisayar muhendisi, veri bilimci, yazilim muhendisi, and mobil yazilim muhendisi and the most hired fields in turkey
+# storing the data in csv file
 
 from bs4 import BeautifulSoup
 import requests
