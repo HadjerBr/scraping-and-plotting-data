@@ -1,4 +1,4 @@
-# plotting the data using matplotlib DONE
+# plotting the data using matplotlib
 
 import pandas as pd
 from matplotlib import pyplot as plt
